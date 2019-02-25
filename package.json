@@ -1,10 +1,11 @@
 {
   "name": "@becual/js-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project to handle with errors on javascript",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "publish": ""
   },
   "repository": {
     "type": "git",
