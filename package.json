@@ -1,5 +1,5 @@
 {
-  "name": "js-error",
+  "name": "@becual/js-error",
   "version": "1.0.0",
   "description": "Project to handle with errors on javascript",
   "main": "index.js",
